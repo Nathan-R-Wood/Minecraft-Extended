@@ -1,0 +1,13 @@
+name = "Extra Enchants Reworked"
+filename = "Extra Enchants Reworked 1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9UUgMSj5/versions/9rc0dWdC/Extra%20Enchants%20Reworked%201.19.2.jar"
+hash-format = "sha1"
+hash = "b14b945289fe704e7682fa8d32a56c02b3b17bdf"
+
+[update]
+[update.modrinth]
+mod-id = "9UUgMSj5"
+version = "9rc0dWdC"

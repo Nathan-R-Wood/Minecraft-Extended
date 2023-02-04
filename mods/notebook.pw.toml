@@ -1,0 +1,13 @@
+name = "Vanilla Notebook "
+filename = "coord_book-1.1.2 - 1.19.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/KaKEuH9Q/versions/LlFt7Z1L/coord_book-1.1.2%20-%201.19.jar"
+hash-format = "sha1"
+hash = "bacff223dcc0b9f38646ca4b5df6ae01904eff20"
+
+[update]
+[update.modrinth]
+mod-id = "KaKEuH9Q"
+version = "LlFt7Z1L"
