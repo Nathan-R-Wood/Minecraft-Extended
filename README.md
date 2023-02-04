@@ -1,4 +1,4 @@
-# Vanilla Plus
+# Minecraft Extended
 Welcome to the project files for the Vanilla Plus Minecraft modpack.
 ***
 ## How to work on the modpack
