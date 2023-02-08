@@ -337,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "30674895795238465a459627b3866840012db27328d9b5b5a319bfdcf4f65915"
+hash = "31d7d57cf0d65483fca5ead4ba11a0c63efb5c38a9bfd959f64a380908b6bace"
 metafile = true
 
 [[files]]
@@ -447,7 +447,7 @@ metafile = true
 
 [[files]]
 file = "mods/paradise-lost.pw.toml"
-hash = "1877b51604f697c5199f1de7b88031b59c1ea14345d1ec132ffc074c7224c3a6"
+hash = "a3e2b4163f57d1f711a5be765d0d1a4c7722bcd0f35a141c0f177d59e2ca17d6"
 metafile = true
 
 [[files]]
@@ -512,7 +512,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-bumblezone-fabric.pw.toml"
-hash = "187d0bef5d725db9a045d9ecc38944cc7d8daaacb0b07d0d2c188fe0f31e6808"
+hash = "29b26a6a385c8ce4addb3367d88cf059dbb0cf7a7ab4a087df02bc757c3a14bd"
 metafile = true
 
 [[files]]
@@ -626,5 +626,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/rethinking-voxels.pw.toml"
-hash = "65800ab623a47f7a4a9f63d89d46f40579890afdf16600f513e1b1382ad8a647"
+hash = "c0b112fdb65a8f32262dc3f16cc13f16601c0d3e5f1da8b1266cb4168b9cbde1"
 metafile = true
