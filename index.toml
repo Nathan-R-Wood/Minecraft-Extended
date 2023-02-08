@@ -316,6 +316,11 @@ hash = "2210295dafe13407cfaabb19e51d24dc5960f86724f3d2d0759c48b1f7c77aea"
 metafile = true
 
 [[files]]
+file = "mods/indium.pw.toml"
+hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
+metafile = true
+
+[[files]]
 file = "mods/infinity-and-mending.pw.toml"
 hash = "2e1bc389569dcfa3f4c0c95fe918eb298278b08fc7f6dc01304dd13111f37aa4"
 metafile = true
