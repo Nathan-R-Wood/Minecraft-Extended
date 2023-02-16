@@ -11,9 +11,7 @@ WORKDIR /Minecraft/server
 COPY . /Minecraft/server
 RUN java -jar packwiz-installer-bootstrap.jar -g -s server file:///Minecraft/server/pack.toml
 RUN rm -r mods/*.toml
-RUN rm -r resourcepacks/
 RUN rm -r shaderpacks/
-RUN rm options.txt
 RUN rm index.toml pack.toml packwiz-installer-bootstrap.jar packwiz-installer.jar packwiz.json
 RUN mkdir world
 

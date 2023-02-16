@@ -6,5 +6,5 @@
 	"halfHeartDamageAmount": 1,
 	// The amount of raw xp it takes to produce an experience bottle. Be careful when setting this too low, as it may enable xp duplication.
 	// min: 0, max: 100
-	"rawXpConsumedOnCreation": 10
+	"rawXpConsumedOnCreation": 8
 }

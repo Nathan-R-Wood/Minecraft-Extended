@@ -37,8 +37,28 @@ file = "config/bclib/server.json"
 hash = "a747a0bb0548ef3b677671e5e60ac931bb2a45c212bfdb9a8b180cddb068ee87"
 
 [[files]]
+file = "config/betterdeserttemples-fabric-1_19.toml"
+hash = "e5e3a580a0daf1abb2a45295f92608cae57877998aade6cf0a2d1b1af40c2115"
+
+[[files]]
+file = "config/betterdungeons-fabric-1_19.toml"
+hash = "80c03ca877123cdf7dca2d928a7512c7e7cb6533e0c98f9fbd969eec3997b157"
+
+[[files]]
 file = "config/bottleyourxp.json5"
-hash = "d3f63ae446f3c662a176440b3977c4843e42e647ef1b31c90aea94b8c3a89444"
+hash = "c1b20661cd38b61fa31494d7d32cf74374122ca771a6bbc50cba0d70a0c555be"
+
+[[files]]
+file = "config/culinaire/features.json"
+hash = "4ff91787410a971b45eff8a314edb149e2e65c1d8be2c72e25f1986666e812e3"
+
+[[files]]
+file = "config/emi.css"
+hash = "76b114af98b4da44e02876ef42aa3f493eb439fa86719b341a36c41e5b595ee4"
+
+[[files]]
+file = "config/wpit.json5"
+hash = "49c9c1ea3f66e6597a6c58c5fa13f4d40e7db1fc9a19640853b3cfa18fc657f3"
 
 [[files]]
 file = "mods/addadd.pw.toml"
@@ -82,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/bclib.pw.toml"
-hash = "bd21befb0fa945159638844e06cba6a5e298785866508a95a100026a10dac0a8"
+hash = "ab6dc95a659eae917ed5afa8ce4c4540be91d3e77290902b37eb6a08f0537f5f"
 metafile = true
 
 [[files]]
@@ -92,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterend.pw.toml"
-hash = "5f9c2805feca5a1393018b73b67db3aaa5f8eb28edf52ae2965aebfc1483a745"
+hash = "9035885fc165866b1634e10b5b9b65ff1335cd9b10d1592d67197c9d8594ebd3"
 metafile = true
 
 [[files]]
@@ -107,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/bottle-your-xp.pw.toml"
-hash = "746d73fff8622117c46c986cf4aeb1c859781e567afb22430973e1a779246e97"
+hash = "5b8f31f6813abb4504eb411878849f6d7a508eadec2acd28fc81cc0f7e9ca152"
 metafile = true
 
 [[files]]
@@ -122,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "9fef28e9fc4a63280128c66c9f7c412b1fe80e56f7d69b94d00b001f5fb39735"
+hash = "fa2e0223195fd9f9496720377b8ab417f3363a902ab9e82585a97bc4c9158fca"
 metafile = true
 
 [[files]]
@@ -137,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "7834481f76838453cdcc6c3a9eca9cd46e3199c0ff1788720d707507c8a03a75"
+hash = "b1aa83bed8ef891dff38190701b48f6dd70085c26159f9316334bbe85b935ead"
 metafile = true
 
 [[files]]
@@ -337,7 +357,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "02cef7560c9b885038b3cb2601581a057b9651ef82d0198e34aff1ae7be0d021"
+hash = "2355898e55539353e3fe43057c1c2880e02ceb6b64c8f5d1e0bc2a660635c323"
 metafile = true
 
 [[files]]
@@ -482,7 +502,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "f8abf37ca66a859e03c848166dfd7d82f4c89a22c7b4ec5b3f97890bda8438d7"
+hash = "0f9e287c84c2463ecb376d58c8bf30cbfbfa04ec44aef2f61e36e42fe529be30"
 metafile = true
 
 [[files]]
@@ -517,7 +537,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-bumblezone-fabric.pw.toml"
-hash = "29b26a6a385c8ce4addb3367d88cf059dbb0cf7a7ab4a087df02bc757c3a14bd"
+hash = "ff8fb661192f661a0a7319acecd5313cee6fedb4e13931c20d985467fc435684"
 metafile = true
 
 [[files]]
@@ -621,15 +641,11 @@ hash = "4b502ea7f185b192b42c890e30b181246b341b1fcf4bd626b68c07de3cb46b19"
 metafile = true
 
 [[files]]
-file = "options.txt"
-hash = "2d4fa086ea37985e0dd23e1edb23759685996ed81e288d8df0ec14373c39ed28"
-
-[[files]]
-file = "resourcepacks/xalis-enhanced-vanilla.pw.toml"
-hash = "8c6d8ac24bd77e8cc74b85da44ffd1484d7471141df8248aee037d306fb90990"
+file = "shaderpacks/rethinking-voxels.pw.toml"
+hash = "6195c61287ce7d853d331ea3c317f55e317e107a133cbc297d3bf67d06ebf86f"
 metafile = true
 
 [[files]]
-file = "shaderpacks/rethinking-voxels.pw.toml"
-hash = "c0b112fdb65a8f32262dc3f16cc13f16601c0d3e5f1da8b1266cb4168b9cbde1"
+file = "shaderpacks/solas-shader.pw.toml"
+hash = "224067f730c8cd269def3883caed3cdd2c93cc562455acd8f1cb337ca48c41a6"
 metafile = true

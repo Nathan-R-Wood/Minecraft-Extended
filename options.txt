@@ -1,1 +1,0 @@
-resourcePacks:["vanilla","vinery/bushy_leaves","file/xali\u0027s Enhanced Vanilla v1.10.5.zip"]
