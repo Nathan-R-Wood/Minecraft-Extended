@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "68d606ae34815023ff4a7d3f76dd6bf08d0f47fa34045a8226a9a1bbc6f0de87"
+hash = "a251740d592640bf50172a2916b31de40d47fc9138982ee3f3f3a8fe74ae6f38"
 metafile = true
 
 [[files]]
@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "fa2e0223195fd9f9496720377b8ab417f3363a902ab9e82585a97bc4c9158fca"
+hash = "13bac68b4372e66fc82e33809ba085c2cd9bea09b6a4a3619586c73767d8b86e"
 metafile = true
 
 [[files]]
@@ -217,12 +217,12 @@ metafile = true
 
 [[files]]
 file = "mods/emi-loot.pw.toml"
-hash = "d335568e8a10a9f1b14f828870474d99798f8e33b687ba1e765e7827f744fadc"
+hash = "b95018d9b0bc69b5b2209af2a09b4398efec711da76208a810ebe91c3b3ada16"
 metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "c9b76faa13062eea32d52fac5e90ee7869700b487e53cf0307142dbaea5fb989"
+hash = "11bda2809ed686d7832afb0e13256e6eff3179944f7d5a6e0ed8dd578ff6b9e3"
 metafile = true
 
 [[files]]
@@ -237,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/emiffect.pw.toml"
-hash = "85f91bd1ff7f77e9e5b5d81844c1ec62b3a3815954b1d4f6ac1ad86ae6032909"
+hash = "031d16eb940b9005939d24390f98f321afcbfb001a835f36c1874dd5d5cd4258"
 metafile = true
 
 [[files]]
@@ -356,6 +356,21 @@ hash = "373a56d7f4fb25661a0585492f7ea490e7613f1191e588fec08782438d52e1fd"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "b7ddb84e65bee3c1f60bc9a917f0f31130b379a50feb60fae49898948184ffe8"
+metafile = true
+
+[[files]]
+file = "mods/inventory-tabs-updated.pw.toml"
+hash = "a8ec5fd59ff7ddab287b339ca91c49af53ecea28105d764a1b560c4fbdfaf7d6"
+metafile = true
+
+[[files]]
+file = "mods/inventory-totem.pw.toml"
+hash = "1419f26f7cd637d9b12ecb271b66d0183101b350bd7c668f97578f5906999448"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "2355898e55539353e3fe43057c1c2880e02ceb6b64c8f5d1e0bc2a660635c323"
 metafile = true
@@ -368,6 +383,11 @@ metafile = true
 [[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "730a2942abc26467602f541397824c3d0f8cfb2d497f2239ec72d98f9c10fbe9"
 metafile = true
 
 [[files]]
@@ -422,12 +442,12 @@ metafile = true
 
 [[files]]
 file = "mods/mob-captains.pw.toml"
-hash = "88d1658e598887f005855808d6cefa786c4e33a1702eac3fe480206650fdea9a"
+hash = "1c22f1a10274b466f1a90bb694c41ea3ddf2048792c4fb906936738e6b3c4374"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "09eb7db3ca7778d91ad66845e41b6b4814655fe375a05d4a69528c74b4f1c8af"
+hash = "be0fd8b9cd9f8a94428ea8ac5ec84f4f7bab23697236b7a2e54d8537834e0315"
 metafile = true
 
 [[files]]
@@ -511,11 +531,6 @@ hash = "ceb9b6f4e501a207be1a577072158628b82eb579da26fe1d3593ab539186dcb4"
 metafile = true
 
 [[files]]
-file = "mods/show-me-what-you-got.pw.toml"
-hash = "2138a812408929d94c6753da38bea38e3be42f6891ee5a1c9a092de4ad1080de"
-metafile = true
-
-[[files]]
 file = "mods/sizeshiftingpotions.pw.toml"
 hash = "4089b257b2607198601115860626d595f72bd5a4faada9ae2606b9e981bcbb2c"
 metafile = true
@@ -537,7 +552,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-bumblezone-fabric.pw.toml"
-hash = "ff8fb661192f661a0a7319acecd5313cee6fedb4e13931c20d985467fc435684"
+hash = "16992e6218a48f44f33e0d54d28336aa47b9f2c31ee227fdbcec0b729e74b32c"
 metafile = true
 
 [[files]]
@@ -597,7 +612,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-api.pw.toml"
-hash = "d6126b71de887bf0b23a4a064b5f9ebb2f4848533f3b098703c3917ba63e5c69"
+hash = "0f93241f1486baf9342965407894f641f0b5fe0a3a10ab4dc56ba49d394922d7"
 metafile = true
 
 [[files]]

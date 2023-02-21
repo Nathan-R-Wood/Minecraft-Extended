@@ -1,5 +1,5 @@
 # Minecraft Extended
-Welcome to the project files for the Vanilla Plus Minecraft modpack.
+Welcome to the project files for the Minecraft Extended modpack.
 ***
 ## How to work on the modpack
 1. Download [packwiz](https://github.com/packwiz/packwiz).
