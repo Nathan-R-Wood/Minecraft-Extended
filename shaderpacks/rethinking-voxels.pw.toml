@@ -1,13 +1,13 @@
 name = "Rethinking Voxels"
-filename = "rethinking-voxels_beta17b.zip"
+filename = "rethinking-voxels_beta18.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/kmwfVOoi/versions/IQJj9pCB/rethinking-voxels_beta17b.zip"
+url = "https://cdn.modrinth.com/data/kmwfVOoi/versions/5NlLe3RT/rethinking-voxels_beta18.zip"
 hash-format = "sha1"
-hash = "a4821406f40745345de3922e7bfbd0913e39735a"
+hash = "a431045300e530083d22a81bf18da6f40f1df495"
 
 [update]
 [update.modrinth]
 mod-id = "kmwfVOoi"
-version = "IQJj9pCB"
+version = "5NlLe3RT"

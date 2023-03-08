@@ -38,5 +38,5 @@
     "duration": 5
   },
   "HastePotions": true,
-  "BundleRecipe": true
+  "BundleRecipe": false
 }

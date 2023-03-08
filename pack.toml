@@ -1,13 +1,13 @@
 name = "Minecraft Extended"
 author = "Wizard Dragon"
-version = "0.6.0"
+version = "0.7.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "767242966c6079898cb913e06289aefa6300a1e213cc7725903e64c52be839d0"
+hash = "1afb758899ee85f713d8bedc462b45dc6e9a0ed549d6362d19bb22b87ac99f1f"
 
 [versions]
 minecraft = "1.19.2"
-quilt = "0.18.2"
+quilt = "0.18.3"
