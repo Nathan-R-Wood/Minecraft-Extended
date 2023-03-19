@@ -140,7 +140,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "e37967152aa65463b0bab3ef853f54b7cfe17f633bffef66b67c3b8a4d80324f"
+hash = "0708223179ebe2bad131cfc063dde7cf65ec355c18a3c1392646142e46ea95f3"
 metafile = true
 
 [[files]]
@@ -180,7 +180,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "d2126311f743248b186c348a4da5f1599db7695eee2ec6f2d9a3641de3f643a5"
+hash = "799fc8a84321683b58ace2b4ffd41f973b5d45fbce5e12b538e098cd49dbecf9"
 metafile = true
 
 [[files]]
@@ -190,7 +190,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "3daeb5b214c1cde72019cb471b96901c9ea1247dbfabbf282499121f1bd84f70"
+hash = "2a978d8c0b447bb64aac579206b9ca85eb721a431d8af736d60633fabee22bb4"
 metafile = true
 
 [[files]]
@@ -260,7 +260,7 @@ metafile = true
 
 [[files]]
 file = "mods/doggo-mod-overhauled.pw.toml"
-hash = "505317c3a8d9d7ef603c33d5fad4a11cdbfbf6df336a77467d0533206a0cb3a4"
+hash = "82359c7303addd8e6b1a8d01332781e1e64196fef68bb8d2e42766881dbb01cf"
 metafile = true
 
 [[files]]
@@ -281,36 +281,6 @@ metafile = true
 [[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "09effdb99cb31a7024ac68983be1a32840e9972268c81fa93ba73bd994ed6fad"
-metafile = true
-
-[[files]]
-file = "mods/emi-loot.pw.toml"
-hash = "b95018d9b0bc69b5b2209af2a09b4398efec711da76208a810ebe91c3b3ada16"
-metafile = true
-
-[[files]]
-file = "mods/emi.pw.toml"
-hash = "a1d7f219f9c67e391ebd46c9e5b046b511341c6e2b97285ab1f6f6a5c9175a10"
-metafile = true
-
-[[files]]
-file = "mods/emi_farmersdelight.pw.toml"
-hash = "286ee406d092f5763327f12f44ba10a581bb369212ad5080d6fa0152783a24d2"
-metafile = true
-
-[[files]]
-file = "mods/emicompat.pw.toml"
-hash = "7f2bac9db41f54dfc2f505602ea94e9fcd01454282f3d7f0075fb61ad2543e76"
-metafile = true
-
-[[files]]
-file = "mods/emiffect.pw.toml"
-hash = "031d16eb940b9005939d24390f98f321afcbfb001a835f36c1874dd5d5cd4258"
-metafile = true
-
-[[files]]
-file = "mods/emitrades.pw.toml"
-hash = "cfcfcb3c97190708fe47074148d803d339713bdaa908b98d57a6ef4e40e053b5"
 metafile = true
 
 [[files]]
@@ -349,11 +319,6 @@ hash = "b6a43638d6f3e40db516964ba9fa1dcdbe2851d3b39b1a91a977eefc7f237480"
 metafile = true
 
 [[files]]
-file = "mods/extra-mod-integrations.pw.toml"
-hash = "814b3955219c3f1e6b10636b34c5615e09125df7138cad391fce3db39974a340"
-metafile = true
-
-[[files]]
 file = "mods/extraalchemy.pw.toml"
 hash = "5031d54b22478641c4f70b444ce533e342c81d86e08df6c8072a032235a817f0"
 metafile = true
@@ -375,7 +340,7 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes-quilt.pw.toml"
-hash = "24f48124cf54f5eca7753dd7c166b867b4cf80aca98c38f31783fa06a70d4071"
+hash = "c8b1ad05fcd8efc551575593cc0782473303581fbdc5eb3d0ae86d795522efe8"
 metafile = true
 
 [[files]]
@@ -390,7 +355,7 @@ metafile = true
 
 [[files]]
 file = "mods/giant-spawn.pw.toml"
-hash = "939d72e79d638808eb010e8e122d46ce45ae16213edc91e19930bf56f16ba8d5"
+hash = "da47d97c9071a4f9e043772c564cf69993922d41ff12a81e0294a9683869a009"
 metafile = true
 
 [[files]]
@@ -425,7 +390,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "b7ddb84e65bee3c1f60bc9a917f0f31130b379a50feb60fae49898948184ffe8"
+hash = "a11a2e54a2e05a37a08ff08245fe2aa62ad313ee919f1f0211b44f7bfae4ab87"
 metafile = true
 
 [[files]]
@@ -445,7 +410,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "31d7d57cf0d65483fca5ead4ba11a0c63efb5c38a9bfd959f64a380908b6bace"
+hash = "c54336cc0d6659f031b4aff3fd9e95091e6109f072134fa51c5c73ddb67a1b80"
 metafile = true
 
 [[files]]
@@ -455,12 +420,17 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "730a2942abc26467602f541397824c3d0f8cfb2d497f2239ec72d98f9c10fbe9"
+hash = "8cd90949f3896062a4b4b611b229bf731eb2194a2ca656f1acbc07d63b775ec2"
+metafile = true
+
+[[files]]
+file = "mods/light-overlay.pw.toml"
+hash = "54037e4122f477f500dc3002b2f0ab9cda99d0fceb70da1d163be1afc99ec060"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "28b3808ae3e3e5bcc8f2a6dfe40c539a2e55afd3687e41c681dc408021e395ef"
+hash = "54a337d13450b35dfc931e7a5f3ed9fca1a1992ec51d3b1e4ea1cb5f7cd2d09c"
 metafile = true
 
 [[files]]
@@ -480,7 +450,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "4716789e4a806c1cabcef27e67150215edb4c3d737e9a87d90f2f615d6c196cd"
+hash = "2f1393d78824d3e665be954e339affed26d8482d227aa3f13d6ca5d577469f8b"
 metafile = true
 
 [[files]]
@@ -614,8 +584,28 @@ hash = "ceb9b6f4e501a207be1a577072158628b82eb579da26fe1d3593ab539186dcb4"
 metafile = true
 
 [[files]]
+file = "mods/rei.pw.toml"
+hash = "f37d98015547fa4c5c392eec612376bebf6af9ed83cde466938bebf60c7ab68d"
+metafile = true
+
+[[files]]
 file = "mods/replanting-crops.pw.toml"
 hash = "4c48a5d21d608485a4650719de6fe62dc4843134d18c7903284403978b118374"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-loot-tables.pw.toml"
+hash = "d6696013c9c6bafa947b8e998124080bb41c97fe89d1c91098ca1dbec3350e37"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-professions-rep.pw.toml"
+hash = "7f67f250f1ac5f71b62d9682db7e99fc1652271ad574dce12a295ab148cc8e2c"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-trades.pw.toml"
+hash = "253d24d518bf1c952361a25e91d1c80d0c30f83a47c8a94a05bdf8d51a6e97a9"
 metafile = true
 
 [[files]]
@@ -670,7 +660,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-bumblezone-fabric.pw.toml"
-hash = "a43e07e6c0ecae5ce456826a648d329b5b14bd6a05a43a89779528f8da84e84b"
+hash = "bc6aead0bd8919491000cda5b9351e1bb8ba3b2a2d2f564a1d110af6ad37488d"
 metafile = true
 
 [[files]]
@@ -720,7 +710,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "ef6afef5da0219ac29bb7a975a8238de64c44cc202837a9a5192ebb78a59bdef"
+hash = "4a51ff14cc56f1fad18663b01d795e173bbc659116001360e368836255c2b783"
 metafile = true
 
 [[files]]
@@ -730,7 +720,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-api.pw.toml"
-hash = "b9bed718277e195ff3ffbf9e031c02edbc38d36bdef3ed545eb4faf4cc486304"
+hash = "e8036308d5fdaf3e155684892dffa19122c31745c40fbe55027a1677179263d7"
 metafile = true
 
 [[files]]
@@ -775,7 +765,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/rethinking-voxels.pw.toml"
-hash = "6e2b1e07d0a729f548c17b04b8bf2c06995bc840ae7ad2a89490d7249f386d72"
+hash = "034bfbdb275eb4288ad71f88ac05dfcc8f1858b90018d4f69b3351f1535c393c"
 metafile = true
 
 [[files]]
