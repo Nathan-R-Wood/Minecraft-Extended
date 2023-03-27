@@ -1,13 +1,13 @@
 name = "Vanilla Notebook "
-filename = "notebook-2.0.0-1.19.2.jar"
+filename = "notebook-2.2.0-1.19-1.19.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/KaKEuH9Q/versions/hL6SiLsg/notebook-2.0.0-1.19.2.jar"
+url = "https://cdn.modrinth.com/data/KaKEuH9Q/versions/u5kV78Zc/notebook-2.2.0-1.19-1.19.2.jar"
 hash-format = "sha1"
-hash = "cef6a4a69dc05ba9becfe4109b04271f14a9efd6"
+hash = "6a5b71d524c96dc905b082e7505917ef046845fc"
 
 [update]
 [update.modrinth]
 mod-id = "KaKEuH9Q"
-version = "hL6SiLsg"
+version = "u5kV78Zc"

@@ -95,7 +95,7 @@ metafile = true
 
 [[files]]
 file = "mods/adorn.pw.toml"
-hash = "f9cf1abe808c59f9c2ad85bb7033b6edffa133b5d870a6d3f4d718f260f0192a"
+hash = "0904d6eaf57c3a13708c22af5eccaac980cbaa38097d1ebfff6429be207b367a"
 metafile = true
 
 [[files]]
@@ -180,7 +180,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "799fc8a84321683b58ace2b4ffd41f973b5d45fbce5e12b538e098cd49dbecf9"
+hash = "7d0956ec5c9e33dcbe51dd5eb64604341a346731077467103f2ccef97204dd71"
 metafile = true
 
 [[files]]
@@ -450,7 +450,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "2f1393d78824d3e665be954e339affed26d8482d227aa3f13d6ca5d577469f8b"
+hash = "73016b3eee768165722134b3eaab88cddeabfe70410f9ae8eb5281eaecc06dd2"
 metafile = true
 
 [[files]]
@@ -466,6 +466,11 @@ metafile = true
 [[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "9421355a24881292851803d45726a5aebce4c5a5863793d7d373565b4fceb1eb"
+metafile = true
+
+[[files]]
+file = "mods/minimotd.pw.toml"
+hash = "224b831a1cdce497428441731ebbfcbf4565b53f12225f21b90a7116e8b3c1b9"
 metafile = true
 
 [[files]]
@@ -486,6 +491,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "be0fd8b9cd9f8a94428ea8ac5ec84f4f7bab23697236b7a2e54d8537834e0315"
+metafile = true
+
+[[files]]
+file = "mods/more-end-cities.pw.toml"
+hash = "794a69435ba74ae9a4472a4d2f7a0a223ecfc054cc504898ebe8258baee0b04d"
 metafile = true
 
 [[files]]
@@ -515,7 +525,7 @@ metafile = true
 
 [[files]]
 file = "mods/notebook.pw.toml"
-hash = "aa0c5c6b44a7bde0885f92921976062f9e1ff6664cacf76c30e48c3bcfbd38b3"
+hash = "045a5fea7e7c205a53a94718e6dfe2d6ba67d9fcf8c80e058d3f71b4ad07a769"
 metafile = true
 
 [[files]]
