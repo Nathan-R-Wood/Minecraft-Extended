@@ -524,11 +524,6 @@ hash = "644ab9cf130713c1255545a26fd5845bba007ff3ebf0287ac553dc4143189a84"
 metafile = true
 
 [[files]]
-file = "mods/notebook.pw.toml"
-hash = "045a5fea7e7c205a53a94718e6dfe2d6ba67d9fcf8c80e058d3f71b4ad07a769"
-metafile = true
-
-[[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "d20a2e83f3e570badf2a8e57a2ba540f8acede421774181e903588ca0ba799e5"
 metafile = true
