@@ -65,8 +65,8 @@ file = "config/customsplashscreen/logo.png"
 hash = "66356404c433159615bdca10d244a4ae9648d69b2690294c02b44343b1a95bae"
 
 [[files]]
-file = "config/emi.css"
-hash = "76b114af98b4da44e02876ef42aa3f493eb439fa86719b341a36c41e5b595ee4"
+file = "config/exordium.json"
+hash = "3b59ac81df22a4852145876b01c6be123024ed57f4512e3eccdbcdb175e8c5a7"
 
 [[files]]
 file = "config/friendsandfoes.json"
@@ -75,6 +75,10 @@ hash = "18449d2114ffe0e60bf9331e1080a1a8fda1f8f3668278de0c9a2533c5c72e29"
 [[files]]
 file = "config/inventory_tabs.json"
 hash = "26933f685a4f434dddacc48c2dffbe54d90b4f304e972a43f21e448ba6c86f6c"
+
+[[files]]
+file = "config/isxander-main-menu-credits.json"
+hash = "1eb3085f6b56c644c99f4235732ba0e210e76a9c18498364cdd44685af92fdb2"
 
 [[files]]
 file = "config/tokenablefurnaces.json"
@@ -180,7 +184,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "7d0956ec5c9e33dcbe51dd5eb64604341a346731077467103f2ccef97204dd71"
+hash = "7cd1d6f65dfe64cdb07180872ca629e6e7a583437cc1a410baa083df763974fc"
 metafile = true
 
 [[files]]
@@ -289,6 +293,11 @@ hash = "bf886d03a194a4036f02afe690cb21ca346fff20f4193355994ec97f046a8809"
 metafile = true
 
 [[files]]
+file = "mods/exordium.pw.toml"
+hash = "ed622deb60304758f1f8ee69e33f057b2d95ab1b65cddc4218978e9255814b77"
+metafile = true
+
+[[files]]
 file = "mods/expanded-armor-enchanting.pw.toml"
 hash = "898243d58aa3b0970de498b250d6236c61265cd53e770250f16abf767c41d068"
 metafile = true
@@ -364,6 +373,11 @@ hash = "6fd7515689f5d615195b919471c55704adb1937ca5f78950b238b9b45ecb1b07"
 metafile = true
 
 [[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "87066ad1a766c9f105f5d1c1b8f4d28f81a68f3103f51db9d867170229215ac9"
+metafile = true
+
+[[files]]
 file = "mods/immersive-structures.pw.toml"
 hash = "2210295dafe13407cfaabb19e51d24dc5960f86724f3d2d0759c48b1f7c77aea"
 metafile = true
@@ -410,7 +424,12 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "c54336cc0d6659f031b4aff3fd9e95091e6109f072134fa51c5c73ddb67a1b80"
+hash = "91a17412411a9f57e687a0f536f902c043c24ef06571b9f2003ecdb5ee5a4f0c"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "998f45a9037fa4663bc5e2bea5de925bf4ce6352328fcaaa830db8466cc62416"
 metafile = true
 
 [[files]]
@@ -434,6 +453,16 @@ hash = "54a337d13450b35dfc931e7a5f3ed9fca1a1992ec51d3b1e4ea1cb5f7cd2d09c"
 metafile = true
 
 [[files]]
+file = "mods/lmd.pw.toml"
+hash = "c038a6ea641541af0aee754c41df71ccb662245863cecb43d64c202baf561291"
+metafile = true
+
+[[files]]
+file = "mods/main-menu-credits.pw.toml"
+hash = "1527caee4fc4f26b525a41a95dd07dae21ab3c8d2c391237c79396abf7e9b2d7"
+metafile = true
+
+[[files]]
 file = "mods/mavapi.pw.toml"
 hash = "a6c66745ff4e44c84d89d2bffe88413d0209252392ee9f7776aba3c30e8b9de9"
 metafile = true
@@ -450,7 +479,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "73016b3eee768165722134b3eaab88cddeabfe70410f9ae8eb5281eaecc06dd2"
+hash = "4ce761e594c255a802bd4b0b4b6312e740130b17d77764c389cef4c8417ae8af"
 metafile = true
 
 [[files]]
@@ -549,8 +578,13 @@ hash = "2dab4b3cea2f1ce1505c3c7be55d8fb6123a7593435134f2c15eed18e6c07ddf"
 metafile = true
 
 [[files]]
+file = "mods/paxi.pw.toml"
+hash = "bb3eade7942567c36fc88230bfcf24132e8b7be8d975f26a4cd9aa502d5b86db"
+metafile = true
+
+[[files]]
 file = "mods/pehkui.pw.toml"
-hash = "bb7a3fce6f6350212dd0460fd73f2a25c44f0789331faabd5e6b14e60713711f"
+hash = "f20bf84a820c2c157ffe838f6ea821524cfe4eb056664ac250fac5af3fbac68a"
 metafile = true
 
 [[files]]
@@ -580,12 +614,17 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "f2b64534ac741a2a5f4ea7aa59585e1a5e60160e65cddac301d3cf46eb335150"
+hash = "7f16d61f278eb23f2778ebc55467391d06fd76a8710d5b857efb7762734fb281"
 metafile = true
 
 [[files]]
 file = "mods/qu-enchantments.pw.toml"
 hash = "ceb9b6f4e501a207be1a577072158628b82eb579da26fe1d3593ab539186dcb4"
+metafile = true
+
+[[files]]
+file = "mods/quiltgoslighlyfasterlol.pw.toml"
+hash = "feee9284053ffd6435907d1bf3b5fdb7e9010237bb2a4b6a912d6f1389f8def7"
 metafile = true
 
 [[files]]
@@ -659,13 +698,18 @@ hash = "9dd4815f5d228c29c8d455c5d1408e12a43ed8ae575d5e0a51ba331652dccfcb"
 metafile = true
 
 [[files]]
+file = "mods/symbol-chat.pw.toml"
+hash = "03b9e96361fcc7d73ed4c617b8187657f2f6838a748a71ec870cce9cef796f17"
+metafile = true
+
+[[files]]
 file = "mods/tfas.pw.toml"
 hash = "87eb3a34c7185b34f3041cfaf613619a572df08cacd96e3a2b1f599854980c34"
 metafile = true
 
 [[files]]
 file = "mods/the-bumblezone-fabric.pw.toml"
-hash = "bc6aead0bd8919491000cda5b9351e1bb8ba3b2a2d2f564a1d110af6ad37488d"
+hash = "86d40185b08fa1c3f13d97328ddda85a57cdad739fdd7b9f3eefeb9e8309aa12"
 metafile = true
 
 [[files]]
@@ -715,7 +759,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "4a51ff14cc56f1fad18663b01d795e173bbc659116001360e368836255c2b783"
+hash = "d025cd1dbc6fbbf330fd6c4612c1c3fd9b9405802346ceefd84c62b6582f2aad"
 metafile = true
 
 [[files]]
