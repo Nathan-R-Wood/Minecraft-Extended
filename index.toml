@@ -78,7 +78,12 @@ hash = "26933f685a4f434dddacc48c2dffbe54d90b4f304e972a43f21e448ba6c86f6c"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "1eb3085f6b56c644c99f4235732ba0e210e76a9c18498364cdd44685af92fdb2"
+hash = "755204a7183f0c927641c4615628c325efa2d6640198ec526c3ac04a0881ab1e"
+
+[[files]]
+file = "config/paxi/datapacks/minecraft-extended-data-pack.pw.toml"
+hash = "feb81a538ee41f4e0ebce08a30869ed96f817de770bcf10573bf59b73994df96"
+metafile = true
 
 [[files]]
 file = "config/tokenablefurnaces.json"
