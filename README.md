@@ -10,7 +10,7 @@ Welcome to the project files for the Minecraft Extended modpack.
 
 3. Clone the project.
 ```
-git clone git@github.com:w1zz4rddr4g0n/Minecraft-Extended.git
+git clone git@github.com:nathan-r-wood/Minecraft-Extended.git
 ```
 4. Make sure you're in the project directory.
 ```
